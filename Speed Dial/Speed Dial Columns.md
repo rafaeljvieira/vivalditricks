@@ -1,7 +1,3 @@
-**Author:** [An_dz](https://vivaldi.net/en-US/easysocial-dashboard/profile/15939)
-
-**Source:** https://vivaldi.net/en-US/forum/all/3073-vivaldi-ui-customisations#24533
-
 Here's how you can set a maximum of Speed Dial thumbs. Vivaldi maximum number is 6 right now.
 
 Since the CSS must be different for each number of columns, I'll try to explain how to adapt the strips for the number you want.
@@ -28,3 +24,7 @@ This is to set the top position of the dials, again do for every J, but here you
     .speeddial.cols2 .dial:nth-of-type({C}n+{(C*J)+1}), .speeddial.cols3 .dial:nth-of-type({C}n+{(C*J)+1}), .speeddial.cols4 .dial:nth-of-type({C}n+{(C*J)+1}), .speeddial.cols5 .dial:nth-of-type({C}n+{(C*J)+1}), .speeddial.cols6 .dial:nth-of-type({C}n+{(C*J)+1}) {
     	top: {240*J}px !important;
     }
+
+***Author:*** [An_dz](https://vivaldi.net/en-US/easysocial-dashboard/profile/15939)
+
+***Source:*** https://vivaldi.net/en-US/forum/all/3073-vivaldi-ui-customisations#24533
