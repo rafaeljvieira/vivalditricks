@@ -23,3 +23,7 @@ Search for:
 And replace with:
 
     var i=t+"-"+n+" {"+n+":"+e+"!important;}\n";if(n==="background-color")y.insertRule("::selection{"+n+":"+e+"}", 0);
+    
+***Author:*** [An_dz](https://vivaldi.net/en-US/easysocial-dashboard/profile/15939)
+
+***Source:*** https://vivaldi.net/en-US/forum/all/3073-vivaldi-ui-customisations#27057
