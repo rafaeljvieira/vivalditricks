@@ -1,3 +1,6 @@
+**Author:** [An_dz](https://vivaldi.net/en-US/easysocial-dashboard/profile/15939)
+**Source:** https://vivaldi.net/en-US/forum/all/3073-vivaldi-ui-customisations#24533
+
 Here's how you can set a maximum of Speed Dial thumbs. Vivaldi maximum number is 6 right now.
 
 Since the CSS must be different for each number of columns, I'll try to explain how to adapt the strips for the number you want.
