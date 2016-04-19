@@ -1,4 +1,4 @@
-![enter image description here](https://vivaldi.net/media/kunena/attachments/25229/roundedtabs.png)
+![enter image description here](https://vivaldi.net/media/kunena/attachments/72659/rounded-addy.png)
 
 To use a rounded address bar
 
