@@ -13,4 +13,5 @@ You can also darken the grey by adjusting brightness:
 You can choose other colours.
 
 ***Author:*** sjudenim
+
 ***Source:*** https://vivaldi.net/en-US/forum/all/3073-vivaldi-ui-customisations?start=260#46081
