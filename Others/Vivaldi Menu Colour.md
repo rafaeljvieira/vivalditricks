@@ -10,7 +10,11 @@ You can also darken the grey by adjusting brightness:
         -webkit-filter: grayscale(100%) brightness(50%) !important;
     }
     
-You can choose other colours.
+You can choose other colours, like sepia:
+
+    .vivaldi {
+        -webkit-filter: sepia(100%) hue-rotate(24deg) saturate(9) brightness(90%) !important;
+    }
 
 ***Author:*** sjudenim
 
