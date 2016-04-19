@@ -15,7 +15,19 @@ You can choose other colours, like sepia:
     .vivaldi {
         -webkit-filter: sepia(100%) hue-rotate(24deg) saturate(9) brightness(90%) !important;
     }
+    
+Furthermore, you can use a transparent rectangle:
 
-***Author:*** sjudenim
+    .vivaldi svg rect[id^=vivrect] {
+    	opacity: 0;
+    }
 
-***Source:*** https://vivaldi.net/en-US/forum/all/3073-vivaldi-ui-customisations?start=260#46081
+And colour the V:
+
+    .vivaldi svg path {
+    	fill:#F33;
+    }
+
+***Author:*** sjudenim & [hekel](https://vivaldi.net/en-US/easysocial-dashboard/profile/72659)
+
+***Source:*** https://vivaldi.net/en-US/forum/all/3073-vivaldi-ui-customisations?start=260#46081; https://vivaldi.net/en-US/forum/all/3073-vivaldi-ui-customisations?start=280#49378
